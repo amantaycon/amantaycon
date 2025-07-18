@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/amantaycon)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/amantaycon)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/aman48791/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/amantaycon/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:amantaycon@gmail.com)
 
 ---
@@ -80,7 +80,7 @@ Tech: C Programming
 
 - 💼 [LinkedIn](https://linkedin.com/in/amantaycon)
 - 📨 [Email](mailto:amantaycon@gmail.com)
-- 🧠 [LeetCode](https://leetcode.com/u/aman48791/)
+- 🧠 [LeetCode](https://leetcode.com/u/amantaycon/)
 
 ---
 
