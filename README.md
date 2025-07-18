@@ -79,12 +79,6 @@
 
 ---
 
-### [CodeAlpha Tasks](https://github.com/amantaycon/codealpha_tasks)  
-**Status:** Internship Projects  
-**Description:** Projects created during Full Stack Internship at CodeAlpha, showcasing modern web technologies and solutions.  
-**Tech Stack:** JavaScript, HTML, CSS
-
----
 
 ###  [Student CRUD API](https://github.com/amantaycon/Student_CRUD_API)  
 **Status:** Functional  
