@@ -10,7 +10,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 - 🔭 Currently working on **Cereal Hub** (E-commerce for cereals)  
 - 💡 Creator of **CodeKing**, a social platform for coders  
@@ -78,9 +78,9 @@ Tech: C Programming
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/amantaycon)
-- 📨 [Email](mailto:amantaycon@gmail.com)
-- 🧠 [LeetCode](https://leetcode.com/u/amantaycon/)
+-  [LinkedIn](https://linkedin.com/in/amantaycon)
+-  [Email](mailto:amantaycon@gmail.com)
+-  [LeetCode](https://leetcode.com/u/amantaycon/)
 
 ---
 
