@@ -12,7 +12,7 @@
 
 ## About Me
 
-- 🔭 Currently working on **Cereal Hub** (E-commerce for cereals)  
+- 🔭 Completed working on **Cereal Hub** (E-commerce for cereals)  
 - 💡 Creator of **CodeKing**, a social platform for coders  
 - 👨‍💻 DSA enthusiast with 200+ LeetCode problems solved (75% Medium/Hard)  
 - 📚 MCA student at **KIET Group of Institutions**, 2024–26  
@@ -51,21 +51,73 @@
 
 ## 🚀 Featured Projects
 
-### 🔗 [Cereal Hub](https://github.com/amantaycon/Cereal_Hub)
-> E-commerce web app for cereals with product listings, cart, checkout, and admin panel  
-Tech: React (Vite), Django, REST API, MySQL  
+### [Cereal Hub](https://github.com/amantaycon/Cereal_Hub)  
+**Status:** Complete  
+**Description:** E-commerce web application for buying cereals and quality food products at bulk prices. Features include authentication, product catalog, cart, and checkout system.  
+**Tech Stack:** React (Vite), Django, REST API, MySQL
 
-### 🔗 [DSA Trainer](https://github.com/amantaycon/DsaTrainer)
-> Learn Data Structures with topic-wise problems and visualizations  
-Tech: HTML, CSS, JavaScript, Node.js, Express, MySQL  
+---
 
-### 🔗 [CodeKing](https://github.com/amantaycon/CodeKing)
-> A social platform where coders connect, post, and chat in real-time  
-Tech: Node.js, Express, MySQL, HTML, CSS, JS, jQuery  
+### [DSA Trainer](https://github.com/amantaycon/DsaTrainer)  
+**Status:** Complete   
+**Description:** A structured platform to master Data Structures & Algorithms with topic-wise lessons, challenges, and interview prep content.  
+**Tech Stack:** HTML, CSS, JavaScript, Node.js, Express.js, MySQL
 
-### 🔗 [Basic Data Base](https://github.com/amantaycon/Basic_data_base_)
-> CLI-based database engine built in C with support for CRUD and sorting  
-Tech: C Programming  
+---
+
+### [CodeKing](https://github.com/amantaycon/CodeKing)  
+**Status:** Complete   
+**Description:** A social media platform built for coders to share content, connect, and chat in real-time.  
+**Tech Stack:** Node.js, Express, MySQL, HTML, CSS, JavaScript, jQuery
+
+---
+
+### [SA Coder](https://github.com/amantaycon/SA-Coder)  
+**Status:** Complete  
+**Description:** A blogging and language reference platform that allows users to read tutorials, comment, and explore coding resources.  
+**Tech Stack:** PHP, HTML, CSS, JavaScript
+
+---
+
+### [CodeAlpha Tasks](https://github.com/amantaycon/codealpha_tasks)  
+**Status:** Internship Projects  
+**Description:** Projects created during Full Stack Internship at CodeAlpha, showcasing modern web technologies and solutions.  
+**Tech Stack:** JavaScript, HTML, CSS
+
+---
+
+###  [Student CRUD API](https://github.com/amantaycon/Student_CRUD_API)  
+**Status:** Functional  
+**Description:** Java-based REST API for managing student records with CRUD operations.  
+**Tech Stack:** Java, Spring Boot
+
+---
+
+### [Sama Lite](https://github.com/amantaycon/sama_lite)  
+**Status:** Lightweight Tool  
+**Description:** A simple project management tool designed to manage tasks and to-dos efficiently with minimal interface.  
+**Tech Stack:** HTML, CSS, JavaScript
+
+---
+
+### [Basic Data Base](https://github.com/amantaycon/Basic_data_base_)  
+**Status:** Academic Project  
+**Description:** Command-line database management system in C supporting basic insert, update, delete, and sort functionalities.  
+**Tech Stack:** C Programming
+
+---
+
+### 🔐 [Kiddi File Encryption](https://github.com/amantaycon/Kiddi-file-encryption-base-on-password-)  
+**Status:** CLI Tool  
+**Description:** A basic file encryption utility that encrypts files using passwords via command-line interface.  
+**Tech Stack:** C++
+
+---
+
+### 🧮 [CMD Calculator in C++](https://github.com/amantaycon/cmd-calculator-in-C-)  
+**Status:** CLI Tool  
+**Description:** Command-line calculator that performs basic arithmetic operations (+, -, *, /).  
+**Tech Stack:** C++
 
 ---
 
