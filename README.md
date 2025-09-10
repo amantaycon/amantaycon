@@ -14,13 +14,15 @@
 
 ## About Me
 
-- 🔭 Completed working on **Cereal Hub** (E-commerce for cereals)  
-- 💡 Creator of **CodeKing**, a social platform for coders  
-- 👨‍💻 DSA enthusiast with 200+ LeetCode problems solved (75% Medium/Hard)  
-- 📚 MCA student at **KIET Group of Institutions**, 2024–26  
-- 🏆 Passionate about backend APIs, full-stack development & system design  
+- 🔭 Currently working on **TimeCoins**, a blockchain-inspired wallet system with a dynamic in-app coin linked to market shares  
+- 💡 Developed **Cereal Hub**, an E-commerce platform for cereals and quality food products  
+- 💡 Founder of **CodeKing**, a social networking platform designed specifically for coders  
+- 👨‍💻 DSA enthusiast with 200+ LeetCode problems solved, including 75% Medium/Hard challenges  
+- 📚 MCA student at **KIET Group of Institutions** (2024–26)  
+- 🏆 Passionate about designing robust backend APIs, building scalable full-stack applications, and solving complex system design problems  
 
 ---
+
 
 ## 🛠️ Tech Stack
 
@@ -52,6 +54,13 @@
 ---
 
 ## 🚀 Featured Projects
+
+### [TimeCoins](https://github.com/amantaycon/TimeCoins)  
+**Status:** Complete  
+**Description:** A wallet system with a special in-app coin (TimeCoins) whose value fluctuates based on market shares and demand. Users can transfer, buy, and pay using TimeCoins securely.  
+**Tech Stack:** Spring Boot, Java, MySQL, REST API
+
+---
 
 ### [Cereal Hub](https://github.com/amantaycon/Cereal_Hub)  
 **Status:** Complete  
@@ -129,6 +138,7 @@
 -  [LinkedIn](https://linkedin.com/in/amantaycon)
 -  [Email](mailto:amantaycon@gmail.com)
 -  [LeetCode](https://leetcode.com/u/amantaycon/)
+-  [Portfolio](https://yourportfolio.com)
 
 ---
 
