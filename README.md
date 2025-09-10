@@ -14,7 +14,7 @@
 
 ## About Me
 
-- 🔭 Currently working on **TimeCoins**, a blockchain-inspired wallet system with a dynamic in-app coin linked to market shares  
+- 🔭 Currently working on **TimeCoins**, a wallet system featuring a dynamic in-app coin whose value fluctuates based on market shares and user demand. 
 - 💡 Developed **Cereal Hub**, an E-commerce platform for cereals and quality food products  
 - 💡 Founder of **CodeKing**, a social networking platform designed specifically for coders  
 - 👨‍💻 DSA enthusiast with 200+ LeetCode problems solved, including 75% Medium/Hard challenges  
